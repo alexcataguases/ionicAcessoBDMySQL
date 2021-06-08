@@ -1,0 +1,7 @@
+{
+  "name": "brancoAngularEmail",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
