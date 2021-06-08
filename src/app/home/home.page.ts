@@ -10,6 +10,7 @@ import { HttpClient, HttpClientModule } from '@angular/common/http';//ALEX------
 export class HomePage {
 
   lista: any = [];
+  //alteração da sincronização 1
 
   constructor(public http: HttpClient) { 
       this.escreveDados();
