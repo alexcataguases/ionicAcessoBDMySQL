@@ -12,6 +12,7 @@ export class HomePage {
   lista: any = [];
   //alteração da sincronização 1
   //alteração da sincronização 22222
+   //alteração da sincronização 3333333------------
 
   constructor(public http: HttpClient) { 
       this.escreveDados();
