@@ -13,6 +13,7 @@ export class HomePage {
   //alteração da sincronização 1
   //alteração da sincronização 22222
    //alteração da sincronização 3333333------------
+  //PRIMEIRA ALTERAÇÃO EM NUVEM!!!!!!!!!!!!!!
 
   constructor(public http: HttpClient) { 
       this.escreveDados();
